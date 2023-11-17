@@ -1,5 +1,7 @@
 # JULappI
 
+![](Logo.png)
+
 This is a simple script that sends a WhatsApp message to a specific number. It is intended to be used as a cron job, so it can be used to send a message every day at a specific time.
 
 ## Installation
